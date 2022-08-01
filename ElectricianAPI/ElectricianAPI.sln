@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectricianAPI", "ElectricianAPI\ElectricianAPI.csproj", "{459C23D8-8650-4337-882C-39473D8A26CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{9DB17BFA-0A3F-4A74-8E82-71243BC7CF3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{6705233E-0B84-4700-A1A5-220A41FDF978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{459C23D8-8650-4337-882C-39473D8A26CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459C23D8-8650-4337-882C-39473D8A26CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459C23D8-8650-4337-882C-39473D8A26CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459C23D8-8650-4337-882C-39473D8A26CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB17BFA-0A3F-4A74-8E82-71243BC7CF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB17BFA-0A3F-4A74-8E82-71243BC7CF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB17BFA-0A3F-4A74-8E82-71243BC7CF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB17BFA-0A3F-4A74-8E82-71243BC7CF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6705233E-0B84-4700-A1A5-220A41FDF978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6705233E-0B84-4700-A1A5-220A41FDF978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6705233E-0B84-4700-A1A5-220A41FDF978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6705233E-0B84-4700-A1A5-220A41FDF978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBBA9B7E-1AB8-4037-A59A-C0E720326360}
+	EndGlobalSection
+EndGlobal
